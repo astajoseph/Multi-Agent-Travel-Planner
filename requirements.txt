@@ -1,0 +1,43 @@
+# Core LLM & Orchestration
+langchain==0.3.3
+langchain-community==0.3.3
+langchain-ollama==0.1.1
+langgraph==0.2.5
+langchain-groq==0.1.3
+
+# Database & Vector Search
+supabase==2.4.5
+psycopg2-binary==2.9.10
+
+# Embeddings
+sentence-transformers==2.6.0
+
+# Web & Scraping
+playwright==1.48.0
+requests==2.32.3
+beautifulsoup4==4.12.3
+
+# Travel APIs
+fast-flights==1.0.8
+openmeteo==1.3.3
+geopy==2.4.0
+
+# Data & Config
+pydantic==2.7.1
+python-dotenv==1.0.0
+pandas==2.2.1
+pytz==2024.1
+
+# UI
+streamlit==1.35.0
+streamlit-aggrid==0.5.0
+
+# Utilities
+httpx==0.26.0
+aiohttp==3.9.3
+
+# Development
+pytest==8.0.0
+pytest-asyncio==0.23.0
+black==24.1.1
+ruff==0.2.0
