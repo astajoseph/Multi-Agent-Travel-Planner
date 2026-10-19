@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=65.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "wanderlust"
+version = "0.1.0"
+description = "Multi-Agent Smart Travel Planner"
+readme = "README.md"
+requires-python = ">=3.10"
+
+dependencies = [
+    "langchain>=0.3.0",
+    "langgraph>=0.2.0",
+    "supabase>=2.4.0",
+    "pydantic>=2.7.0",
+    "streamlit>=1.35.0",
+]

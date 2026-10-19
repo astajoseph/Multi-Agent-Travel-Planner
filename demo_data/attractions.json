@@ -1,0 +1,11 @@
+{
+  "DPS": {
+    "destination": "Bali",
+    "attractions": [
+      {"name": "Ubud Monkey Forest", "city": "Ubud", "category": "wildlife", "description": "Jungle sanctuary with monkeys", "estimated_cost_inr": 1500, "duration_hours": 3, "lat": -8.5156, "lon": 115.2636},
+      {"name": "Tanah Lot Temple", "city": "Tabanan", "category": "temple", "description": "Sea temple with sunset views", "estimated_cost_inr": 2000, "duration_hours": 3, "lat": -8.6334, "lon": 115.4237},
+      {"name": "Tegallalang Rice Terraces", "city": "Ubud", "category": "nature", "description": "Emerald rice paddies", "estimated_cost_inr": 1000, "duration_hours": 2, "lat": -8.4283, "lon": 115.2517}
+    ],
+    "suggested_itinerary": "Day 1: Ubud temples. Day 2: Beaches. Day 3: Rice paddies."
+  }
+}

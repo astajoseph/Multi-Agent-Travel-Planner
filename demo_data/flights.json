@@ -1,0 +1,15 @@
+{
+  "DEL_DPS": {
+    "options": [
+      {"departure": "DEL", "arrival": "DPS", "airline": "IndiGo", "duration_hours": 5.5, "stops": 1, "price_inr": 18000, "departure_time": "10:00", "arrival_time": "16:30"},
+      {"departure": "DEL", "arrival": "DPS", "airline": "Air India", "duration_hours": 6.0, "stops": 1, "price_inr": 22000, "departure_time": "14:00", "arrival_time": "20:30"},
+      {"departure": "DEL", "arrival": "DPS", "airline": "SpiceJet", "duration_hours": 5.5, "stops": 1, "price_inr": 16500, "departure_time": "08:00", "arrival_time": "14:30"}
+    ]
+  },
+  "DEL_LBJ": {
+    "options": [
+      {"departure": "DEL", "arrival": "LBJ", "airline": "IndiGo", "duration_hours": 4.5, "stops": 0, "price_inr": 15000, "departure_time": "10:00", "arrival_time": "14:30"},
+      {"departure": "DEL", "arrival": "LBJ", "airline": "Air India", "duration_hours": 4.5, "stops": 0, "price_inr": 18000, "departure_time": "15:00", "arrival_time": "19:30"}
+    ]
+  }
+}

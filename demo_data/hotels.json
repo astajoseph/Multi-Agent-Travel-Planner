@@ -1,0 +1,15 @@
+{
+  "DPS": {
+    "options": [
+      {"name": "Bali Beachfront Resort", "city": "Denpasar", "rating": 4.5, "price_per_night_inr": 4500, "nights": 10, "amenities": ["pool", "wifi", "breakfast", "spa"], "url": "https://booking.com/bali-beachfront"},
+      {"name": "Ubud Palace Hotel", "city": "Ubud", "rating": 4.2, "price_per_night_inr": 3500, "nights": 10, "amenities": ["wifi", "restaurant", "mountain view"], "url": "https://booking.com/ubud-palace"},
+      {"name": "Budget Beach Homestay", "city": "Kuta", "rating": 3.8, "price_per_night_inr": 2000, "nights": 10, "amenities": ["wifi", "kitchen"], "url": "https://booking.com/budget-kuta"}
+    ]
+  },
+  "LBJ": {
+    "options": [
+      {"name": "Lombok Grand Hotel", "city": "Mataram", "rating": 4.3, "price_per_night_inr": 3800, "nights": 10, "amenities": ["pool", "beach access", "restaurant"], "url": "https://booking.com/lombok-grand"},
+      {"name": "Gili Islands Bungalow", "city": "Gili Trawangan", "rating": 4.0, "price_per_night_inr": 2800, "nights": 10, "amenities": ["snorkel gear", "wifi", "sea view"], "url": "https://booking.com/gili-bungalow"}
+    ]
+  }
+}

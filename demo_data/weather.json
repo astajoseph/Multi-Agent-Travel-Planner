@@ -1,0 +1,11 @@
+{
+  "DPS": {
+    "destination": "Bali",
+    "forecast": [
+      {"date": "2024-12-15", "temperature_high_c": 31, "temperature_low_c": 24, "condition": "Partly Cloudy", "humidity": 75, "rainfall_mm": 2},
+      {"date": "2024-12-16", "temperature_high_c": 30, "temperature_low_c": 23, "condition": "Sunny", "humidity": 70, "rainfall_mm": 0},
+      {"date": "2024-12-17", "temperature_high_c": 32, "temperature_low_c": 25, "condition": "Sunny", "humidity": 65, "rainfall_mm": 0}
+    ],
+    "best_time_to_visit": "April to October"
+  }
+}

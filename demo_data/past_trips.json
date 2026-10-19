@@ -1,0 +1,16 @@
+{
+  "trips": [
+    {
+      "id": "trip_001",
+      "user_id": "demo_user_1",
+      "destination": "Bali",
+      "start_date": "2024-03-15",
+      "end_date": "2024-03-25",
+      "budget_inr": 100000,
+      "actual_cost_inr": 85000,
+      "preferences": {"interests": ["beach", "culture", "temples"], "travel_style": "group"},
+      "rating": 5,
+      "feedback": "Amazing! Loved temples and rice terraces."
+    }
+  ]
+}

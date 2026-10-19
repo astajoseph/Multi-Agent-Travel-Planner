@@ -1,0 +1,11 @@
+{
+  "Indonesia": {
+    "country": "Indonesia",
+    "visa_required": true,
+    "visa_type": "VOA (Visa on Arrival)",
+    "validity_days": 30,
+    "processing_days": 1,
+    "estimated_cost_inr": 2500,
+    "notes": "30-day single entry visa on arrival at airports"
+  }
+}
